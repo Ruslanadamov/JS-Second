@@ -1,3 +1,4 @@
+// lesson 1.2
 const goods = [{
     title: 'Shirt',
     price: 150
